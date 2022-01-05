@@ -8,7 +8,7 @@
 
 a node.js module for automatically generating contributions on github without worrying about its movement in the next week. which is **only used on Linux OS.**
 
-### Installation
+### Installationbbbbb
 
 #### NPM Installation
 
